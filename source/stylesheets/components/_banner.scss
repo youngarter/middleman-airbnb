@@ -1,0 +1,19 @@
+.banner{
+  height: 400px;
+  background-size: cover;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+}
+.banner-content{
+  text-align:center;
+  color:white;
+  width: 90%;
+}
+.form{
+  display:flex;
+  justify-content: space-between;
+}
+.form-control{
+  margin-left: 10px;
+}
